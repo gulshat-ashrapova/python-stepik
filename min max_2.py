@@ -11,5 +11,6 @@ elif b>=c>=a:
     print(b,'\n',a,'\n',c)
 elif c>=a>=b:
     print(c,'\n',b,'\n',a)
+
 elif c>=b>=a:
     print(c,'\n',a,'\n',b)
